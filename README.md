@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/hawkli/hawkli_Project/_apis/build/status/hawkli.calculator?branchName=master)](https://dev.azure.com/hawkli/hawkli_Project/_build/latest?definitionId=1&branchName=master)
+
 # Calculator
 The Windows Calculator app is a modern Windows app written in C++ that ships pre-installed with Windows.
 The app provides standard, scientific, and programmer calculator functionality, as well as a set of converters between various units of measurement and currencies.
